@@ -1,0 +1,51 @@
+job_id,job_title,company_name,location,salary_min,salary_max,job_description,posted_date
+1001,EDI Analyst,UnitedHealth Group,New York NY,85000,110000,Seeking EDI Analyst to manage X12 837 and 835 transactions. Experience with EDI standards required. Skills: X12 EDI SQL Azure Python,2026-07-10
+1002,BI Analyst,Microsoft,Seattle WA,120000,160000,Build analytics solutions using Power BI and Fabric. Work with SQL and Python for data transformation. Skills: Power BI SQL Python Tableau,2026-07-10
+1003,Healthcare Data Engineer,Optum,Minneapolis MN,100000,130000,Design and implement healthcare data pipelines. EDI integration required. Skills: Python Spark SQL EDI X12,2026-07-10
+1004,Claims Processing Specialist,Anthem,Indianapolis IN,75000,95000,Process insurance claims using EDI systems. Knowledge of 835 and 837 formats. Skills: X12 EDI Claims Processing,2026-07-10
+1005,Senior Analytics Engineer,Google Cloud,San Francisco CA,140000,180000,Lead analytics platform development. SQL Spark and Python expertise required. Skills: SQL Python Spark BigQuery,2026-07-09
+1006,Data Warehouse Architect,Amazon,Seattle WA,135000,175000,Design enterprise data warehouse using Redshift. Schema design and optimization. Skills: SQL Python AWS Redshift,2026-07-09
+1007,Integration Engineer,IBM Sterling,Chicago IL,95000,125000,Implement EDI and B2B integration solutions. Sterling File Gateway experience. Skills: EDI Integration B2B Sterling,2026-07-09
+1008,Business Intelligence Developer,Humana,Louisville KY,90000,115000,Develop BI solutions using Tableau and Power BI. SQL expertise required. Skills: Tableau Power BI SQL,2026-07-08
+1009,Data Analyst,McKinsey,New York NY,110000,140000,Analyze healthcare market data and trends. Build dashboards and reports. Skills: SQL Python Tableau Excel,2026-07-08
+1010,Healthcare Claims Analyst,CareSource,Columbus OH,70000,90000,Analyze and audit insurance claims. Knowledge of claims processing systems. Skills: Claims Processing SQL Excel,2026-07-08
+1011,Data Engineer,Databricks,San Francisco CA,130000,170000,Build data pipelines using Spark and Python. Real-time data processing. Skills: Spark Python SQL Cloud,2026-07-07
+1012,EDI Specialist,Availity,Jacksonville FL,80000,105000,Manage healthcare EDI transactions and integrations. X12 and HL7 experience. Skills: X12 EDI HL7 Integration,2026-07-07
+1013,Analytics Manager,JPMorgan Chase,New York NY,125000,160000,Lead analytics team and oversee BI strategy. SQL and Power BI knowledge. Skills: Power BI SQL Leadership,2026-07-07
+1014,Data Scientist,Meta,Menlo Park CA,160000,210000,Build machine learning models for data products. Python and SQL expertise. Skills: Python SQL Machine Learning TensorFlow,2026-07-06
+1015,Business Analyst,Accenture,Chicago IL,85000,110000,Gather requirements and build BI solutions. Power BI and SQL skills needed. Skills: Power BI SQL Requirements Analysis,2026-07-06
+1016,Integration Specialist,Dell Boomi,Austin TX,95000,130000,Implement cloud integration solutions. API and middleware experience. Skills: Boomi Integration APIs Python,2026-07-06
+1017,Data Quality Analyst,Cotiviti,Franklin TN,75000,100000,Monitor and improve data quality in healthcare systems. SQL skills required. Skills: SQL Data Quality Testing,2026-07-05
+1018,Senior BI Developer,Tableau,Seattle WA,140000,180000,Develop advanced Tableau dashboards and analytics. SQL and Python for backend. Skills: Tableau SQL Python,2026-07-05
+1019,Healthcare Informatics Specialist,Mayo Clinic,Rochester MN,85000,115000,Support healthcare data systems and analytics. SQL and Python knowledge. Skills: Healthcare IT SQL Python,2026-07-05
+1020,ETL Developer,Bank of America,New York NY,100000,130000,Design and maintain ETL pipelines for financial data. Python and SQL expertise. Skills: ETL Python SQL,2026-07-04
+1021,Business Intelligence Consultant,Deloitte,Boston MA,110000,145000,Consult on BI strategy and implementations. Expertise in Power BI and Tableau. Skills: Power BI Tableau SQL,2026-07-04
+1022,Data Pipeline Engineer,Netflix,Los Gatos CA,145000,190000,Build scalable data pipelines for streaming analytics. Spark and Python required. Skills: Spark Python SQL Cloud,2026-07-04
+1023,Claims Data Analyst,Blue Cross Blue Shield,Chicago IL,80000,105000,Analyze insurance claims data. SQL and Excel expertise required. Skills: SQL Excel Claims Data Analysis,2026-07-03
+1024,Machine Learning Engineer,OpenAI,San Francisco CA,170000,220000,Develop ML models for AI products. Python TensorFlow and PyTorch expertise. Skills: Python Machine Learning TensorFlow PyTorch,2026-07-03
+1025,Data Governance Specialist,JP Morgan Chase,New York NY,105000,135000,Implement data governance and compliance frameworks. SQL knowledge helpful. Skills: Data Governance Compliance SQL,2026-07-03
+1026,SQL Developer,Microsoft SQL Server,Seattle WA,95000,125000,Develop and optimize SQL databases and queries. T-SQL expertise. Skills: SQL T-SQL Database Design,2026-07-02
+1027,Analytics Engineer,Airbnb,San Francisco CA,135000,170000,Build analytics infrastructure and data models. SQL and Python required. Skills: SQL Python dbt Analytics,2026-07-02
+1028,Healthcare Revenue Analyst,Cigna,Philadelphia PA,75000,100000,Analyze healthcare revenue and billing data. Claims processing knowledge. Skills: Healthcare Revenue SQL Excel,2026-07-02
+1029,Business Data Analyst,LinkedIn,Sunnyvale CA,120000,155000,Analyze product data and business metrics. SQL and Python expertise. Skills: SQL Python Analytics Statistics,2026-07-01
+1030,EDI Quality Assurance,Humana,Louisville KY,70000,90000,Validate EDI transactions and data quality. X12 format knowledge required. Skills: EDI Testing X12 Quality Assurance,2026-07-01
+1031,Senior Data Architect,Amazon Web Services,Seattle WA,150000,200000,Design enterprise data architecture on AWS. Redshift and S3 expertise. Skills: AWS Redshift S3 Architecture,2026-06-30
+1032,Power BI Developer,Microsoft,Seattle WA,115000,150000,Build Power BI dashboards and reports. DAX and SQL expertise required. Skills: Power BI DAX SQL,2026-06-30
+1033,Data Integration Engineer,Informatica,Redwood City CA,110000,145000,Implement data integration solutions. Informatica and ETL experience. Skills: Informatica ETL Integration,2026-06-30
+1034,Healthcare Quality Analyst,UnitedHealth,New York NY,80000,105000,Monitor healthcare quality metrics. Data analysis and reporting skills. Skills: Healthcare Quality Analysis SQL,2026-06-29
+1035,Tableau Developer,Salesforce,San Francisco CA,125000,160000,Build Tableau dashboards for enterprise clients. SQL and JavaScript skills. Skills: Tableau SQL JavaScript,2026-06-29
+1036,Data Scientist,Apple,Cupertino CA,165000,215000,Build ML models for Apple products. Python and ML expertise required. Skills: Python Machine Learning Data Science,2026-06-29
+1037,EDI Clearinghouse Analyst,Emdeon,Nashville TN,85000,110000,Manage EDI clearinghouse operations. X12 and HL7 knowledge. Skills: EDI Clearinghouse X12 HL7,2026-06-28
+1038,Analytics Platform Engineer,Uber,San Francisco CA,140000,180000,Build analytics data platform. Spark Python and SQL expertise. Skills: Spark Python SQL Data Platform,2026-06-28
+1039,Claims Analyst,BCBS Colorado,Denver CO,75000,100000,Review and process insurance claims. Knowledge of claims systems and EDI. Skills: Claims Processing EDI SQL,2026-06-28
+1040,Senior BI Analyst,Goldman Sachs,New York NY,135000,170000,Lead BI initiatives for trading and operations. SQL Power BI and Python. Skills: Power BI SQL Python Finance,2026-06-27
+1041,Healthcare Data Scientist,IBM Watson Health,New York NY,125000,160000,Build predictive models for healthcare. Python ML and data expertise. Skills: Python Machine Learning Healthcare,2026-06-27
+1042,Data Quality Engineer,Walmart,Bentonville AR,90000,120000,Ensure data quality across enterprise systems. SQL and Python skills. Skills: Data Quality SQL Python Testing,2026-06-27
+1043,BI Solutions Architect,Cognizant,Philadelphia PA,110000,145000,Design BI solutions for enterprise clients. Power BI and Tableau expertise. Skills: Power BI Tableau Architecture SQL,2026-06-26
+1044,Integration Developer,MuleSoft,San Francisco CA,120000,155000,Develop API and integration solutions. MuleSoft and Python skills required. Skills: MuleSoft APIs Python Integration,2026-06-26
+1045,Analytics Manager,Verizon,New York NY,120000,155000,Manage analytics team and oversee projects. BI and SQL leadership skills. Skills: SQL Power BI Leadership Management,2026-06-26
+1046,Data Engineer,Stripe,San Francisco CA,145000,190000,Build data infrastructure and pipelines. Python SQL and cloud expertise. Skills: Python SQL AWS Data Engineering,2026-06-25
+1047,EDI Implementation Consultant,Deloitte,Chicago IL,105000,140000,Implement EDI solutions for enterprise clients. X12 and integration knowledge. Skills: EDI Integration Consulting,2026-06-25
+1048,Business Intelligence Manager,Target,Minneapolis MN,115000,150000,Lead BI team and strategy. Power BI and SQL expertise required. Skills: Power BI SQL Leadership,2026-06-25
+1049,Healthcare Analytics Specialist,CVS Health,Woonsocket RI,85000,115000,Analyze healthcare data and trends. SQL and Python skills needed. Skills: Healthcare Analytics SQL Python,2026-06-24
+1050,Data Warehouse Developer,Oracle,Redwood City CA,120000,160000,Develop data warehouse solutions. Oracle SQL and PL/SQL expertise. Skills: Oracle SQL PL/SQL Database,2026-06-24
